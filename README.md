@@ -17,7 +17,7 @@
 docker-compose up --build
 ```
 
-API будет доступно по адресу: [http://localhost:8000](http://localhost:8000)
+API будет доступно по адресу: [http://localhost:8000](http://localhost:8000) (http://localhost:8000/ping)
 
 ## Эндпоинты
 
